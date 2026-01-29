@@ -1,0 +1,8 @@
+{
+  "name": "promptify",
+  "description": "+ask +deep +web <- modifiers | optimize your prompts",
+  "version": "3.0.0",
+  "author": {
+    "name": "Toli"
+  }
+}

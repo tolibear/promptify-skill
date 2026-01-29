@@ -1,6 +1,8 @@
 # promptify
 
-Optimize prompts for clarity and effectiveness. Works anywhere molt.bot runs.
+Optimize prompts for clarity and effectiveness.
+
+Works in **Claude Code** and **molt.bot**.
 
 ## Usage
 
@@ -44,6 +46,12 @@ Force specific capabilities when needed:
 
 ## Install
 
+**Claude Code:**
+```bash
+/install-plugin tolibear/promptify-skill
+```
+
+**Molt.bot:**
 ```bash
 npx molthub install promptify
 ```
