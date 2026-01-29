@@ -92,6 +92,10 @@ Working implementation with:
 - Enforces Role, Task, Constraints, Output
 - Copies to clipboard
 
+## Changelog
+
+**v3.0.0** - Rewritten for Claude 4.x. 65% shorter (163→57 lines). Progressive disclosure. Contract-first design.
+
 ## License
 
 MIT
