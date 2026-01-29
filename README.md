@@ -8,7 +8,7 @@ Works in **Claude Code** and **molt.bot**.
 
 **Claude Code:**
 ```bash
-/install-plugin tolibear/promptify-skill
+claude plugin install promptify@tolibear
 ```
 
 **Molt.bot:**
